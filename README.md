@@ -1,2 +1,2 @@
-# Demo
+# Demo class
 This is a demo for Git&amp;Github
